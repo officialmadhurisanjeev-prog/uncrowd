@@ -1,0 +1,6 @@
+{
+  "name": "UnCrowd - Anti-Tourist-Trap & Hidden-Gem AI Companion",
+  "description": "Rescue your vacation from 2-hour queues, viral tourist traps, and inflated prices with instant walking-distance local gems and crowd audits.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
